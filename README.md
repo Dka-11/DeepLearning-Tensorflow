@@ -103,6 +103,14 @@
 2. Simple Sequences _(C3_W1_Lab_2_sequences_basic.ipynb)_
 3. Sarcasm _(C3_W1_Lab_3_sarcasm.ipynb)_
 
+***
+### Note
+* Lab 1 - Explain about tokenizing. its about text to number so the machine can process it (?)
+* Lab 2 - 
+  - Explain from tokenizing text to sequences, soo from word_index each of word get the key and make it into sequences from the text (?)  
+  - Pad the sequences into a uniform length because that is what your model expects
+  - Explain about OOV, it's about the word is not in the list from var word_index so the key will get OOV (Out of Vocabulary)
+
 ## Week 2
 
 ### Assignment 
