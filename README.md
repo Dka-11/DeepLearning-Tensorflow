@@ -163,6 +163,21 @@
 5. Sarcasm with Bidirectional LSTM _(C3_W3_Lab_5_sarcasm_with_bi_LSTM.ipynb)_
 6. Sarcasm with 1D Convolutional Layer _(C3_W3_Lab_6_sarcasm_with_1D_convolutional.ipynb)_
 
+### Resume :
+Model / Architecture can use for text classification :  
+Embedding - LSTM - GRU / RNN - Convolutional Network  
+
+* Lab 1 - IMDB Subwords 8K with with Single Layer LSTM 
+  -  Change Flatten or GlobalConvolutional1D to LSTM layer / Bidirectional Function.
+  
+* Lab 2  - IMDB Subwords 8K with with Multiple Layer LSTM
+  - Additional LSTM Layer will make lengthen the training compared with previous lab.
+  
+* Lab 3 - IMDB Subwords 8K with 1D convolutional Layer.
+  - Build the model by simply appending the conv & pooling layer after embedding layer.
+* Lab 4 -
+* Lab 5 -
+* Lab 6 - 
 ## Week 4
 
 ### Assignment
