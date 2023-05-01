@@ -46,6 +46,10 @@
 2. Image Generator with Validation _(C1_W4_Lab_2_image_generator_with_validation.ipynb)_
 3. Compacted Images _(C1_W4_Lab_3_compacted_images.ipynb)_
 
+
+***  
+
+
 ## C2 - Convolutional Neural Networks in TensorFlow
 
 ## Week 1
@@ -89,6 +93,11 @@
 
 1. Classifying Rock, Paper, and Scissors _(C2_W4_Lab_1_multi_class_classifier.ipynb)_
 
+
+*** 
+
+
+
 ## C3 - Natural Language Processing in TensorFlow
 
 ## Week 1
@@ -127,6 +136,18 @@
 2. Sarcasm Classifier _(C3_W2_Lab_2_sarcasm_classifier.ipynb)_
 3. IMDB Review Subwords _(C3_W2_Lab_3_imdb_subwords.ipynb)_
 
+***
+
+### Resume :
+* Lab 1 - Training Binary with IMDB datasets - Word Embedding Compile the model using Embedding layers
+* Lab 2 - Training Binary with sarcasm datasets - build a binary classifier.
+  - tokenizing datasets from scratch and you're treating the vocab size as a hyperparameter. 
+  - Furthermore, you're tokenizing the texts by building a vocabulary of full words.
+* Lab 3 - Subword tokenization -
+  - subword text encoding can be a robust technique to avoid out-of-vocabulary tokens
+* Assignment :
+  - Struggle on Validation Split
+  - implemented a neural network capable of classifying text and also learned about embeddings and tokenization
 ## Week 3
 
 ### Assignment 
@@ -152,6 +173,10 @@
 
 1. NLP with Irish Music _(C3_W4_Lab_1.ipynb)_
 2. Generating Poetry from Irish Lyrics _(C3_W4_Lab_2_irish_lyrics.ipynb)_
+
+
+*** 
+
 
 ## C4 - Sequences, Time Series and Prediction
 
