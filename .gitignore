@@ -4,10 +4,8 @@ __pycache__
 .DS_Store
 *.zip
 *.py
-C2/W4/assignment/sign_mnist_test.csv
-C2/W4/assignment/sign_mnist_train.csv
-C3/W1/assignment/data/bbc-text-minimal.csv
-C3/W1/assignment/data/bbc-text.csv
+*.csv
+*.txt
 *.pkl
 tmp/
 *.tsv
