@@ -175,9 +175,16 @@ Embedding - LSTM - GRU / RNN - Convolutional Network
   
 * Lab 3 - IMDB Subwords 8K with 1D convolutional Layer.
   - Build the model by simply appending the conv & pooling layer after embedding layer.
-* Lab 4 -
-* Lab 5 -
-* Lab 6 - 
+* Lab 4 - Building Models for the IMDB Datasets
+  - Build with Flatten() -> Very fast to train.
+  - Build with LSTM -> slower to train but useful in applications where the order of the tokens is important
+  - Build with GRU -> a simpler version of the LSTM. It can be used in applications where the sequence is important but you want faster results and can sacrifice some accuracy
+  - Build with Conv1D -> extract features from your dataset
+  - Each layers have a diff function 
+  - GlobalMaxPooling1D - layer to reduce the results before passing it on to the dense layers
+* Lab 5 - Training a Sarcasm Detection Model using Bidirectional LSTMs
+  
+* Lab 6 - Training a Sarcasm Detection Model using a Convolution Layer
 ## Week 4
 
 ### Assignment
